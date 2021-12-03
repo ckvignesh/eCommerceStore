@@ -3,7 +3,7 @@ The two main goals of this project are:
 - [ ] Building a fullstack web application for an ecommerce store. It would have user accounts, search option, a cart and checkout options.
 - [ ] Follow a proper system design to let the web application scale up and handle a traffic of 1 million users.
 
-Tack the progress of the Project on my Github Project.
+Tack the progress of the Project on my [Github Project](https://github.com/users/ckvignesh/projects/6).
 
 ## Tech Stack:
 
